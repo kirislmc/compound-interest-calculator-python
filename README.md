@@ -1,7 +1,7 @@
 # compound-interest-calculator-python
 
 ## About the Project
-This is a simple compound interest calcaulator for Python. I created this as a part of my learning jounry for Python (inspired by [**BroCode**](https://www.youtube.com/@BroCodez))
+This is a simple compound interest calcaulator for Python. I created this as a part of my learning journey for Python (inspired by [**BroCode**](https://www.youtube.com/@BroCodez))
 
 ## how it works
 The Programm asks for principle, rate, time
